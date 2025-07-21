@@ -1,0 +1,15 @@
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.AssemblyInfoInputs.cache
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.AssemblyInfo.cs
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.sourcelink.json
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\bin\Debug\net9.0\03-GuessingGame.exe
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\bin\Debug\net9.0\03-GuessingGame.deps.json
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\bin\Debug\net9.0\03-GuessingGame.runtimeconfig.json
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\bin\Debug\net9.0\03-GuessingGame.dll
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\bin\Debug\net9.0\03-GuessingGame.pdb
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.dll
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\refint\03-GuessingGame.dll
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.pdb
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\03-GuessingGame.genruntimeconfig.cache
+C:\Users\wktok\projects\practice\csharp\csharp-fundamentals\Projects\03-GuessingGame\obj\Debug\net9.0\ref\03-GuessingGame.dll
